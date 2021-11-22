@@ -1,5 +1,5 @@
 # **UFOs**
-*Use JavaScript, HTML, and CSS to create a custome webpage that showcases UFO sighting data.
+*Use JavaScript, HTML, and CSS to create a custome webpage that showcases UFO sighting data.*
 
 
 ## Overview of Project:
@@ -11,7 +11,7 @@ This project allows users of to interact with the webpage and discover recorded 
 ## Results 
 
 #### *How To Search:*
-The layout of this webpage is simple, yet aestheticly pleasing for users to begin searching and filtering the UFO sighting data. Once the webpage is active, a quick scroll through the page will allow for the usere to gain an top level understanding of the project and the type of data that is filterable. The data table showcases all of the UFO sighting data ordered in chronological date order. 
+The layout of this webpage is simple, yet aestheticly pleasing for users to begin searching and filtering the UFO sighting data. Once the webpage is active, a quick scroll through the page will allow for the usere to gain an top-level understanding of the project and the type of data that is filterable. The data table showcases all of the UFO sighting data ordered in chronological date order. 
 
 While, manually searching through the table data is possible, it is not optimal. The "Filter Search" table on the left side of the webpage allows users to filter the table data utilizing five available filters: date, city, state, country, and/or shape.
 
