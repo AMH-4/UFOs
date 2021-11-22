@@ -5,7 +5,7 @@
 ## Overview of Project:
 
 #### *Purpose:*
-This project allows users of to interact with the webpage and discover recorded data on UFO sightings. Additionally, the creatation of this webpage showcases the dynamic realtionship between the three coding languages, JavaScript, HTML, and CSS, used to build this site. 
+This project allows users to interact with the webpage and discover recorded data on UFO sightings. Additionally, the creatation of this webpage showcases the dynamic realtionship between the three coding languages, JavaScript, HTML, and CSS, used to build this site. 
 
 
 ## Results 
@@ -23,11 +23,5 @@ While, manually searching through the table data is possible, it is not optimal.
 
 ## Summary:
 
-
-- Refactor VBA code and measure performance
-This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
-
-Once the given files had been downloaded and named appropriately, the following septs were taken to perfomr the above necessary deliverables chronologically :
-
-1. (Step 1a.)Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
+Although this webpage accomplishes its intended purpose, there is room for improvement. One major drawback is associated with the table data and filters. It is overwhelming to a user to discover the seemingly never ending list of table data. Additionally, a new user may not know what to search for in the filters section. Futher development for these issue would allow for a smoother webstite interaction for users. I recommend a drop down list of avaible filters for each of the filters. This would allow users to know the avaible dates, cities, states, countries, and shape they can search for in the table data. I also recommend "shrinking" the inital table data initially displayed to show only the first five to ten UFO sightings. A "see more" button would display additonal data in increements of five (or any desired length). These recomendations for futhere developemnt would allow for the webpage to be more user-friendly for useage and allow additional content to be created (and seen) below the table data if diesired.
 
