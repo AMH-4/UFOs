@@ -21,9 +21,9 @@ Users may filter the UFO sighting data using one or multiple filter options. Onc
 
 ![UFO_data_filter](UFO_index_landingpage.png)
 
-Each time a user fileteres the data, an event is recorded to the consol. The following snipit of code fom the "app_chappenge.js" file executes. The image below is what can viewd in the consol on inspection of the website. 
+Each time a user fileteres the data, an event is recorded to the consol. The following snipit of code fom the "app_chappenge.js" file attaches an event to listen for change to each filter. The image below is what can viewd in the consol on inspection of the website. 
+
 ``  
-  // 2. Attach an event to listen for changes to each filter
   d3.selectAll("input").on("change", updateFilters);
 ``
 
