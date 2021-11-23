@@ -19,7 +19,9 @@ While, manually searching through the table data is possible, it is not optimal.
 
 Users may filter the UFO sighting data using one or multiple filter options. Once a filterable search is entered into the search boxes and the user click the "Enter" or "Return" button on their keyboard, the filtered data will appear in the table data area. To search or filter the data with different paramenters, clear the filter text box and change the search paramaters. Then click "Enter" or "Return" to display the new filtered data. 
 
-![UFO_data_filter](UFO_index_landingpage.png)
+![UFO_data_onefilter](UFO_filterdata_date.png)
+
+![UFO_data_threefilter](UFO_filterdata_date_state_shape.png)
 
 Each time a user fileteres the data, an event is recorded to the consol. The following snipit of code fom the "app_chappenge.js" file attaches an event to listen for change to each filter. The image below is what can viewd in the consol on inspection of the website. 
 
@@ -27,7 +29,7 @@ Each time a user fileteres the data, an event is recorded to the consol. The fol
   d3.selectAll("input").on("change", updateFilters);
 ``
 
-![UFO_consol_target_search_recorded](UFO_index_landingpage.png)
+![UFO_consol_target_search_recorded](UFO_filterdata_colsole.png)
 
 ## Summary:
 
