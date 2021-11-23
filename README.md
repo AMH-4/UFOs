@@ -19,7 +19,7 @@ While, manually searching through the table data is possible, it is not optimal.
 
 Users may filter the UFO sighting data using one or multiple filter options. Once a filterable search is entered into the search boxes and the user click the "Enter" or "Return" button on their keyboard, the filtered data will appear in the table data area. To search or filter the data with different paramenters, clear the filter text box and change the search paramaters. Then click "Enter" or "Return" to display the new filtered data. 
 
-![UFO_data_onefilter](UFO_filterdata_date.png)
+![UFO_data_onefilter](UFO_filter_date.png)
 
 ![UFO_data_threefilter](UFO_filterdata_date_state_shape.png)
 
